@@ -9,7 +9,7 @@
 
 [![Build Status](https://github.com/transitive-bullshit/nextjs-notion-starter-kit/actions/workflows/build.yml/badge.svg)](https://github.com/transitive-bullshit/nextjs-notion-starter-kit/actions/workflows/build.yml) [![Prettier Code Formatting](https://img.shields.io/badge/code_style-prettier-brightgreen.svg)](https://prettier.io)
 ![GitHub last commit](https://img.shields.io/github/last-commit/philiprj/personal_website1.0?logo=hey)
-![Build Workflow Status](https://img.shields.io/github/workflow/status/philiprj/personal_website1.0/test.yml?branch=main)
+![Build Workflow Status](https://img.shields.io/github/workflow/status/philiprj/personal_website1.0/build.yml?branch=main)
 
 ## Intro
 
